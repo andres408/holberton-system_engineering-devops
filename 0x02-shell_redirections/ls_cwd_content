@@ -1,0 +1,24 @@
+total 88
+drwxr-xr-x 2 root    root    4096 Sep 14 00:57 .
+drwxrwxr-x 7 vagrant vagrant 4096 Sep 13 01:00 ..
+-rwxr--r-- 1 root    root      32 Sep 13 00:29 0-hello_world
+-rwxr--r-- 1 root    root      34 Sep 13 00:28 0-hello_world~
+-rwxr--r-- 1 root    root      32 Sep 13 00:45 1-confused_smiley
+-rwxr--r-- 1 root    root      31 Sep 13 00:45 1-confused_smiley~
+-rwxr--r-- 1 root    root      28 Sep 13 00:51 2-hellofile
+-rw-r--r-- 1 root    root      30 Sep 13 00:50 2-hellofile~
+-rwxr--r-- 1 root    root      39 Sep 13 22:24 3-twofiles
+-rw-r--r-- 1 root    root      41 Sep 13 22:23 3-twofiles~
+-rwxr--r-- 1 root    root      29 Sep 13 22:38 4-lastlines
+-rw-r--r-- 1 root    root      31 Sep 13 22:37 4-lastlines~
+-rwxr--r-- 1 root    root      29 Sep 13 22:47 5-firstlines
+-rw-r--r-- 1 root    root      31 Sep 13 22:46 5-firstlines~
+-rwxr--r-- 1 root    root      42 Sep 14 00:03 6-third_line
+-rw-r--r-- 1 root    root      44 Sep 13 23:56 6-third_line~
+-rwxr--r-- 1 root    root      78 Sep 14 00:50 7-file
+-rwxr--r-- 1 root    root      81 Sep 14 00:48 7-file~
+-rwxr--r-- 1 root    root      36 Sep 14 00:56 8-cwd_state
+-rw-r--r-- 1 root    root      37 Sep 14 00:55 8-cwd_state~
+-rw-r--r-- 1 root    root    1967 Sep 12 23:27 README.md
+-rw-r--r-- 1 root    root     744 Sep 14 00:02 iacta
+-rw-r--r-- 1 root    root       0 Sep 14 00:57 ls_cwd_content
