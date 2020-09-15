@@ -1,3 +1,2 @@
 #!/bin/bash
-sum=$(( $TRUEKNOWLEDGE + $b ))
-echo $sum
+expr 1209 + 128
