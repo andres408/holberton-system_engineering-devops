@@ -1,2 +1,2 @@
 #!/bin/bash
-expr 1209 + 128
+expr 1209 + 128 | cat -e
